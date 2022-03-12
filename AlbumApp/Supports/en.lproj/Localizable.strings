@@ -1,0 +1,11 @@
+//
+//  Localizable.strings
+//  Album
+//
+//  Created by Longvu on 3/11/22.
+//  Copyright © 2022 . All rights reserved.
+//
+
+// API
+"api.invalidResponseError" = "Invalid server response";
+"api.unknownError" = "Unknown API error";

@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-AlbumAppTests/Pods-AlbumAppTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
+${BUILT_PRODUCTS_DIR}/OHHTTPStubs/OHHTTPStubs.framework
+${BUILT_PRODUCTS_DIR}/RxTest/RxTest.framework
